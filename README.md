@@ -1,3 +1,3 @@
-# Đồ án môn Công nghê phần mềm chuyên sâu
+# Đồ án môn Công nghệ phần mềm chuyên sâu
 
 # RegitForum
